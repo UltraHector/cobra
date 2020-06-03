@@ -1,6 +1,7 @@
 ## Projects using Cobra
 
 - [Bleve](http://www.blevesearch.com/)
+- [Bytom](https://bytom.io/en/)
 - [CockroachDB](http://www.cockroachlabs.com/)
 - [Delve](https://github.com/derekparker/delve)
 - [Docker (distribution)](https://github.com/docker/distribution)
